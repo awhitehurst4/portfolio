@@ -262,6 +262,16 @@ ul.why-me li{
 	text-align: center;
 }
 
+#tf-resume{
+	background: url(../img/08.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	padding: 5% 0;
+	text-align: center;
+}
+
 form#contact {
 	padding: 5%;
 	background: #f1f1f1;
